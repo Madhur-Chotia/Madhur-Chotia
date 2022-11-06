@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GEvilVenom
+- 👋 Hi, I’m Madhur
 - 👀 I’m interested in Data Analysis, Machine Learning and anything which involves analytical thinking
 - 🌱 I’m currently learning Deep Learning and Neural Networks
 - 💞️ I’m currently working as ML Engineer and working my profile for a Business Analyst role
